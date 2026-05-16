@@ -2,7 +2,7 @@
 
 # New Media Cinema
  
-**Deployment URL:** _[https://lakshya8899.github.io/new-media-cinema/]_
+**Deployment URL:** https://newmediacenima.luckytech.dev
  
 New Media Cinema is a single-page front-end movie and TV series discovery dashboard built with **Lit Web Components** and the **TMDB (The Movie Database) API**. Instead of presenting hard-coded content, the website pulls live data from TMDB so users can browse current trending films, search for any movie or TV series, drill into a specific TV season, view detailed metadata across four dashboard widgets, and watch the official trailer all from one page.
  
